@@ -1,0 +1,1 @@
+#define __BATTLE_PASS__

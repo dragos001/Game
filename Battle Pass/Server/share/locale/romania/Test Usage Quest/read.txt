@@ -1,0 +1,1 @@
+In some case don't use in quest-action like "when monster_vnum.kill begin", cause you have already type 2 for kill monster.

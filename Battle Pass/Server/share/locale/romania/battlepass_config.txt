@@ -1,0 +1,60 @@
+// TYPE 1 = Use Specify Item
+// TYPE 2 = Kill Specify Monster
+// TYPE 3 = "Spend Yang" (Sell Items at shop)
+// TYPE 4 = Destroy Items
+// TYPE 5 = Craft Items (cube)
+// TYPE 6 = Catch Fish
+// TYPE 7 = Damage In Monsters
+// TYPE 8 = Damage In Players
+// TYPE 9 = Farm Yang
+// TYPE 10 = Farm Items
+// TYPE 11 = Record Damage in Player
+// TYPE 12 = Kill Players
+// month 0 / 11
+
+Group Set Season
+{
+	MONTH_SEASON	0
+}
+
+Group Final Reward Battle Passs 2019
+{
+	FINAL_REWARD	19	1	19	2	39	1
+}
+
+Group Mission 1
+{
+	DO_MISSION	1	27987	15
+	REWARDS_AND_NAME	50513	15	8716	200	8713	200	MISSION#NAME
+}
+
+Group Mission 2
+{
+	DO_MISSION	1	61100	15
+	REWARDS_AND_NAME	71101	15	70024	150	50193	1	MISSION#NAME
+}
+
+Group Mission 3
+{
+	DO_MISSION	1	61100	15
+	REWARDS_AND_NAME	71101	15	70024	150	50193	1	MISSION#NAME
+}
+
+Group Mission 4
+{
+	DO_MISSION	1	61100	15
+	REWARDS_AND_NAME	71101	15	70024	150	50193	1	MISSION#NAME
+}
+
+Group Mission 5
+{
+	DO_MISSION	1	61100	15
+	REWARDS_AND_NAME	71101	15	70024	150	50193	1	MISSION#NAME
+}
+
+Group Mission 6
+{
+	DO_MISSION	1	61100	15
+	REWARDS_AND_NAME	71101	15	70024	150	50193	1	MISSION#NAME
+}
+// ADD HERE NEW MISSIONS
